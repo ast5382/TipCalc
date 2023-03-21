@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="resultMessage">X% tip on $X is</string>
+</resources>
